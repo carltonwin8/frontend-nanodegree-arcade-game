@@ -1,22 +1,43 @@
-frontend-nanodegree-arcade-game
-===============================
+# frontend-nanodegree-arcade-game
 
-Follow the fork from link above or click
-[here](https://github.com/udacity/frontend-nanodegree-arcade-game)
-to see where this project was forked from.
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-This repo contains the project listed as the header above for the
-[Udacity](http://www.udacity.com/)
-[Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001).
+- [User Instructions](#user-instructions)
+- [Course Related Information](#course-related-information)
+- [Pre-Fork Information](#pre-fork-information)
 
-The final results of the files noted below can be seen
+<!-- /TOC -->
+
+## User Instructions
+
+One can run this game by clicking on the link
 [here](https://carltonwin8.github.io/frontend-nanodegree-arcade-game).
 
-* [js](js/app.js)
-* [css](css/style.css)
-* [html](index.html)
+ - The objective is to move the character from the grass, across the stones
+   and then to the water, without getting hit by the bugs running across
+   the stones.
+ - If the character gets to the water, the game is restarted and the character
+   is placed at a random location on the grass area.
+ - If the character is hit by a bug, the game is restarted and the character
+   is placed at a random location on the grass area.
+ - When the bug is crossing over the line between two stones, if the character
+   steps on either stone, the game is restarted and the character
+   is placed at a random location on the grass area.
 
-Every thing below this line is from the parent fork and were preserved as is.
+## Course Related Information
+Click
+[here](https://github.com/udacity/frontend-nanodegree-arcade-game)
+to see where this project was forked from.
+This repo contains the arcade game project for the
+[Udacity](http://www.udacity.com/)
+[Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001).
+The files modified after the fork are noted below.
+
+* [js](js/app.js)
+
+## Pre-Fork Information
+
+Every thing below this line is from the parent fork and is preserved as is.
 
 ---
 
